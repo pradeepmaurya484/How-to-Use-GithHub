@@ -2,6 +2,6 @@
 1. First Create Repository in Githhub
 2. Download git - https://git-scm.com/downloads
 3. Cofig Github 
-        1- Git config --global user.name "Enter User Name"
+        <br>1- Git config --global user.name "Enter User Name"
         2- Git config -- global user.email "Enter Email"
         3- git config -- list //About config details
