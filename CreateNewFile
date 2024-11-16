@@ -1,0 +1,7 @@
+                 
+1.First Create new file
+2.Then Check file in List -ls
+3.If file is created sucessfully then then add in you  repository
+4.Check status using command - git staus
+5.using command - git add "File Name" or git add .
+6.Use file name to be add particular file. otherwise use dot for change all file
