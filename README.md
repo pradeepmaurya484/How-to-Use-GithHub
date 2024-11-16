@@ -3,5 +3,5 @@
 2. Download git - https://git-scm.com/downloads
 3. Cofig Github 
         <br>1- Git config --global user.name "Enter User Name"
-        2- Git config -- global user.email "Enter Email"
-        3- git config -- list //About config details
+        <br>2- Git config -- global user.email "Enter Email"
+        <br>3- git config -- list //About config details
